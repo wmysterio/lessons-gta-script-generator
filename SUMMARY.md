@@ -1,0 +1,47 @@
+# Table of contents
+
+* [Вступление](README.md)
+* [Последние изменения](history.md)
+* [Установка и настройка](settings.md)
+* [Благодарности](thanks.md)
+
+## Документация <a href="#docs" id="docs"></a>
+
+* [Основы](docs/base/README.md)
+  * [Структура скрипта](docs/base/scripts\_structure.md)
+  * [Переменные, типы данных](docs/base/variable\_and\_types.md)
+  * [Метки, переходы, опкоды](docs/base/labels\_jumps\_opcodes.md)
+  * [Условия и циклы](docs/base/conditions\_and\_loops.md)
+  * [Массивы](docs/base/arrays.md)
+  * [Таблицы переходов](docs/base/jump\_tables.md)
+  * [Панели](docs/base/panels.md)
+  * [Генератор парковки](docs/base/carpark.md)
+  * [Миссии](docs/base/missions.md)
+  * [Внешние скрипты](docs/base/external\_scipts.md)
+  * [SCM-функции](docs/base/scm\_functions.md)
+  * [Работа с HEX](docs/base/hex\_end.md)
+* [CLEO](docs/cleo.md)
+* [Инструмены](docs/tools/README.md)
+  * [Сниппеты](docs/tools/snippets.md)
+  * [FXT тексты](docs/tools/fxt\_texts.md)
+  * [Калькулятор](docs/tools/calculator.md)
+  * [Добавление команд](docs/tools/commands.md)
+  * [Методы расширения](docs/tools/extensions.md)
+  * [Объединения](docs/tools/unions.md)
+  * [Трюки](docs/tools/tricks.md)
+* [Плагины](docs/plugins/README.md)
+  * [Аудио фон](docs/plugins/plugin\_audio\_background.md)
+  * [Аудио-плеер](docs/plugins/plugin\_audio\_player.md)
+  * [Стартер](docs/plugins/plugin\_starter.md)
+  * [Продвинутый стартер](docs/plugins/plugin\_starter\_advanced.md)
+  * [Гоночная миссия](docs/plugins/plugin\_race\_mission.md)
+  * [Телефон](docs/plugins/plugin\_phone.md)
+  * [Сохранение игры](docs/plugins/plugin\_save\_game.md)
+  * [Недвижимость](docs/plugins/plugin\_properties.md)
+  * [Стандартные скрипты](docs/plugins/plugin\_original.md)
+* [Примеры](docs/examples/README.md)
+  * [Группировка миссий](docs/examples/grouping\_missions.md)
+
+***
+
+* [Visual Studio](https://visualstudio.microsoft.com/ru/thank-you-downloading-visual-studio/?sku=Community\&rel=16)
